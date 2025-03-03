@@ -1,0 +1,5 @@
+Link to the official programming guide:
+https://docs.espressif.com/projects/esp-idf/zh_CN/v5.2/esp32s3/get-started/index.html
+
+Links to peripheral play guides (LCD, USB, Bluetooth, keyboard and mouse input devices, audio, GUI, sensors, motors, etc.):
+https://docs.espressif.com/projects/esp-iot-solution/zh_CN/latest/gettingstarted.html
