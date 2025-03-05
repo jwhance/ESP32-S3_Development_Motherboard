@@ -6,6 +6,6 @@ https://drive.google.com/drive/folders/1Gxr7WR7fbcamoN3QuOrcjBe8Z2pYCBrl?usp=sha
 
 This has much of what was needed, especially the schematic.
 
-I'm using the Arduino toolchain for this board but it needs to be treated as a "Generic ESP32 S3" board since there is no board library for this specific board yet.  I'm working on a demonstration application to try to show how to use all the various components on the board and that will show up here eventually.
+I'm using the Arduino toolchain for this board but it needs to be treated as a "Generic ESP32 S3" board since there is no board library for this specific board yet.  I'm working on a demonstration application to try to show how to use all the various components on the board and the start of that is in the Examples/LCD folder.
 
 If you happen across this repo and find or develop anything you think might be helpful to others, please create a PR.  Thanks!
